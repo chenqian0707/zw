@@ -1,0 +1,7 @@
+{
+  "name": "紫微斗数命盘解读大师 (Zi Wei Dou Shu Master)",
+  "description": "基于双子座 AI 视觉解析能力的专业紫微斗数命盘解读工具，深度分析性格、事业、财富与运势。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
